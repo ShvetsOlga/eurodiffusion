@@ -1,2 +1,2 @@
 # eurodiffusion
-first repository
+Euro coin difussion implemeted on C.
