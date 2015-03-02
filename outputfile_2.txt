@@ -1,0 +1,35 @@
+Sample Input
+
+7 
+France                    2 4 6 7
+Spain                     3 1 5 3
+Portugal                  1 1 2 2
+Italy                     7 2 9 5
+Germany                   7 61210
+Poland                   13 515 7
+Ukraine                  16 418 6
+1 
+Luxembourg                1 1 1 1
+2 
+Netherlands               1 3 2 4
+Belgium                   1 1 2 2
+0 
+
+
+Sample Output
+
+Case Number 1
+Italy                     6561
+Germany                   9245
+France                   10553
+Spain                    12926
+Poland                   13081
+Portugal                 15839
+Ukraine                  20326
+
+Case Number 2
+Luxembourg                   0
+
+Case Number 3
+Belgium                      2
+Netherlands                  2
